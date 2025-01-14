@@ -11,7 +11,7 @@
 Ao longo da minha carreira, participei de projetos desafiadores, incluindo participação na Operação Antártica XLI na Estação Antártica Comandante Ferraz e o desenvolvimento de sistemas de medição atmosférica.
 
 
-## Minhas Skills
+## Skills
 
 **Aplicações e dados**
 
