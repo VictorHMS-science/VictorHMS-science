@@ -5,8 +5,8 @@
 ## Sobre mim
 
 - 🎓 Formado em Física pela Universidade Federal do Rio de Janeiro (UFRJ).
-- 🤔 Aspirante a Cientista de Dados e tenho paixão por resolver problemas complexos, criar soluções inovadoras e compartilhar conhecimento..
-- 🌱 Aprendendo mais sobre desenvolvimento de aplicativos móveis, python e machine learning. 
+- Aspirante a Cientista de Dados e tenho paixão por resolver problemas complexos, criar soluções inovadoras e compartilhar conhecimento..
+- Aprendendo mais sobre desenvolvimento de aplicativos móveis, python e machine learning. 
 
 Ao longo da minha carreira, participei de projetos desafiadores, incluindo participação na Operação Antártica XLI na Estação Antártica Comandante Ferraz e o desenvolvimento de sistemas de medição atmosférica.
 
